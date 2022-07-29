@@ -17,6 +17,11 @@ function should return `true` if the string is a palindrome (that is, if it
 reads the same forwards and backwards, like `"mom"` or `"racecar"`), and return
 `false` if it is not a palindrome.
 
+```
+make a functino that returns true if the string is a palindrome, if not return false.(if the word is the same as the word in reverse, it should return true)
+```
+
+
 To keep things simple, your function only needs to deal with lowercase strings
 that are all letters (don't worry about spaces or special characters).
 
